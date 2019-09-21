@@ -1,0 +1,10 @@
+.container2{
+	border:2px solid black;
+	border-radius: 10px;
+	margin-top:30px;
+	margin-bottom: 30px;
+	padding:30px;
+}
+.bg-dark{
+	color:white;
+}
